@@ -3,7 +3,7 @@ import Paragrafo from '../../components/Paragrafo'
 import { GithubSecao } from './styles'
 const Sobre = () => (
   <section>
-    <Titulo fontsize={16}>sobre mim</Titulo>
+    <Titulo fontSize={16}>sobre mim</Titulo>
     <Paragrafo tipo="secundario">
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam
       reprehenderit, itaque, eum nam pariatur, ducimus deserunt in impedit
